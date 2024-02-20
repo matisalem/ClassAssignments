@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68bfe404-c22f-4a18-aedc-f781acb3c93a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project/stage1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/stage1/src/test/java/edu/yu/cs/com1320/project/impl/HashTableImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/stage1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/stage1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/stage1/target/test-classes/edu/yu/cs/com1320/project/impl/HashTableImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/src/main/java/edu/yu/cs/com1320/project/impl/HashTableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/src/main/java/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/src/main/java/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/src/test/java/edu/yu/cs/com1320/project/stage1/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/src/test/java/edu/yu/cs/com1320/project/stage1/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/stage1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/impl/HashTableImpl$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/impl/HashTableImpl$Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/impl/HashTableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/impl/HashTableImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl$DocumentFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/target/classes/edu/yu/cs/com1320/project/stage1/impl/DocumentStoreImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/stage1/target/test-classes/edu/yu/cs/com1320/project/stage1/DocumentStoreImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/stage1/target/test-classes/edu/yu/cs/com1320/project/stage1/DocumentStoreImplTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MODaJpuYBimvN3cjVAvswcXc1N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/matiassalem/Desktop/YU/Data Structures/Matias_Salem_800753703/DataStructures&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68bfe404-c22f-4a18-aedc-f781acb3c93a" name="Changes" comment="" />
+      <created>1677629796747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677629796747</updated>
+    </task>
+    <servers />
+  </component>
+</project>
